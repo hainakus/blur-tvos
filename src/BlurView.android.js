@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
 import PropTypes from 'deprecated-react-native-prop-types';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import {
   View,
   requireNativeComponent,
   DeviceEventEmitter,
-  ViewPropTypes,
   StyleSheet,
 } from 'react-native';
 
