@@ -1,4 +1,4 @@
-r#import <UIKit/UIKit.h>
+#import <UIKit/UIKit.h>
 #import "BlurEffectWithAmount.h"
 
 @interface BlurView : UIView
